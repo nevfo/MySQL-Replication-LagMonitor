@@ -12,3 +12,4 @@ SQL: GRANT REPLICATION CLIENT ON . to lag_monitor@'%' IDENTIFIED BY 'lag_monitor
 ```
 Sample: python ./LagPrint.py 127.0.0.1 3306 127.0.0.1 3316
 ```
+ ![image](https://raw.githubusercontent.com/nevfo/MySQL-Replication-LagMonitor/master/LagMonitor_screenshot.png)
